@@ -1,4 +1,4 @@
-# Yet Another Ray Tracer ![Documentation](https://github.com/hhimko/yart/actions/workflows/doxygen-gh-pages.yml/badge.svg)
+# Yet Another Ray Tracer ![Documentation](https://github.com/himkodev/yart/actions/workflows/doxygen-gh-pages.yml/badge.svg)
 *Yet Another Ray Tracer* (YART) is an open-source, 3D rendering application with an integrated ray tracing engine. 
 Created for the author's bachelor's degree thesis in computer science, titled *"Implementation of a ray tracing engine using a CPU based renderer"*. 
 
@@ -13,7 +13,7 @@ It consists of an interactive and responsive UI created on the GPU using [Vulkan
 approach.
 
 YART's source is well documented using Doxygen. 
-The latest documentation can be found at the [project's GitHub Pages page](https://hhimko.github.io/yart/). Additionally, many of the algorithms and YART's inner-workings have been extensively described in the [YART thesis LaTeX project](./docs/).
+The latest documentation can be found at the [project's GitHub Pages page](https://himkodev.github.io/yart/). Additionally, many of the algorithms and YART's inner-workings have been extensively described in the [YART thesis LaTeX project](./docs/).
 
 
 ## Dependencies
@@ -55,7 +55,7 @@ YART uses [CMake] (version 3.13+) as its build system.
 ## License
 YART is licensed under the #TODO license.
 
-Author: Dawid Cyganek [@hhimko]
+Author: Dawid Cyganek [@himkodev]
 
 
 
@@ -67,4 +67,4 @@ Author: Dawid Cyganek [@hhimko]
 [Vulkan SDK]: https://vulkan.lunarg.com/sdk/home
 [CMake]: https://cmake.org/
 [dependencies]: #dependencies
-[@hhimko]: https://github.com/hhimko
+[@himkodev]: https://github.com/himkodev
